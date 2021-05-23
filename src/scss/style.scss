@@ -1,0 +1,6 @@
+// overides about the import
+$primary: yellow;
+// $secondary: #fff444;
+// can import partials @import "_varibles.scss"
+// over ride any bootstrap class / colour / mixin etc...
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
